@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -186,7 +186,7 @@
 <body>
     <header>
         <div class="header-center">
-            <img src="logo.png" alt="EWP Logo" class="logo">
+            <img src="https://ewpcreator.github.io/Logo.png" alt="EWP Logo" class="logo">
             <h1>Earnings Wealth Power</h1>
         </div>
         
