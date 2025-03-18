@@ -276,7 +276,7 @@
                 </li>
 
                 <li class="roadmap-item planned">
-                    <div class="status">🔮 2025</div>
+                    <div class="status">🔮 2025 - 2030</div>
                     <h3>Глобальная экспансия</h3>
                     <ul>
                         <li>Листинг на DEX- CEX-биржах</li>
